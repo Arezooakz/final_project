@@ -1,3 +1,4 @@
-*.data
+*data
 ./venv
 *API
+*final_project
